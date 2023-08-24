@@ -1,2 +1,2 @@
 # clone-ifood
-Case de estudo
+Case de estudo Java Spring
